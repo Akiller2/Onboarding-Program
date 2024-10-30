@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5xYJtHYIFQf_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Onboarding programe Velues</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Onboarding_programe_Velues_ORG">
+    <organization identifier="Onboarding_programe_Velues_ORG">
+      <title>Onboarding programe Velues</title>
+      <item identifier="Onboarding_programe_Velues_SCO" isvisible="true" identifierref="__5xYJtHYIFQf_course_id_RES">
+        <title>Onboarding programe Velues</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5xYJtHYIFQf_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ggE4LxY3Eg_R952724_P_416_0_256_361.png" />
+      <file href="mobile/5w9Prs5tvBS_P_299_0_391_361.png" />
+      <file href="mobile/6Dbwaj1yVat_B-10_C10_P_153_0_306_500.png" />
+      <file href="mobile/5mZVyCatqyB_P_0_112_384_180.png" />
+      <file href="mobile/5VU3S9TmKgf.png" />
+      <file href="mobile/5ddoTvfmVJ7.png" />
+      <file href="mobile/66dfVRtz13i.png" />
+      <file href="story_content/69LmY7Zwy6V_44100_48_0.mp3" />
+      <file href="mobile/5Wtx7IvlcLB_80.jpg" />
+      <file href="story_content/5cdxrkr7snX_44100_48_0.mp3" />
+      <file href="story_content/6oS0BmtJG7z_44100_48_0.mp3" />
+      <file href="story_content/5hwPP5A8ZtZ_44100_48_0.mp3" />
+      <file href="story_content/66strftA7YE_44100_48_0.mp3" />
+      <file href="story_content/5oFqcJ3WC38_44100_48_0.mp3" />
+      <file href="mobile/6eaqeNquCZl_80.jpg" />
+      <file href="story_content/6SDEZjwd6df_44100_48_0.mp3" />
+      <file href="story_content/6TXICrEzedT_44100_48_0.mp3" />
+      <file href="story_content/65hLeUbsfq5_44100_48_0.mp3" />
+      <file href="story_content/5yWSkDvISeR_44100_48_0.mp3" />
+      <file href="story_content/6R0CBzbnUkq_44100_48_0.mp3" />
+      <file href="story_content/6DqRY01olKJ_44100_48_0.mp3" />
+      <file href="mobile/5nj13zGc94c_80_B-10.jpg" />
+      <file href="story_content/65R2lN2tkBt_44100_48_0.mp3" />
+      <file href="story_content/6N31ZvlxSMn_44100_48_0.mp3" />
+      <file href="mobile/5sJXQhfjQ6n_80_B-10.jpg" />
+      <file href="story_content/5Xc2yXGXUpT_44100_48_0.mp3" />
+      <file href="story_content/61A6dhvKijE_44100_48_0.mp3" />
+      <file href="mobile/5rc0CIimmWM_80_B-10.jpg" />
+      <file href="story_content/6N0wZehZLwe_44100_48_0.mp3" />
+      <file href="story_content/6OKrsFnNJ0l_44100_48_0.mp3" />
+      <file href="mobile/6ViH2Mnz3bu_80_B-10.jpg" />
+      <file href="story_content/67qEM0FhUTu_44100_48_0.mp3" />
+      <file href="story_content/5hxenkyuo0k_44100_48_0.mp3" />
+      <file href="mobile/5ffRSqeF69T_80_B-10.jpg" />
+      <file href="story_content/5XXjn0R5PU7_44100_48_0.mp3" />
+      <file href="story_content/6c4K92uvy3I_44100_48_0.mp3" />
+      <file href="story_content/60Y95i2Rv4d_44100_48_0.mp3" />
+      <file href="story_content/6Ss0YKJziZY_44100_48_0.mp3" />
+      <file href="mobile/68tIUVxNWkK_80_B-10.jpg" />
+      <file href="story_content/6Kh6oYBU4fy_44100_48_0.mp3" />
+      <file href="story_content/5mqLj6b3whT_44100_48_0.mp3" />
+      <file href="mobile/6IP2hwY6yEL_80_B-10.jpg" />
+      <file href="story_content/5to6l9vgICA_44100_48_0.mp3" />
+      <file href="story_content/6o5jVCLLfQZ_44100_48_0.mp3" />
+      <file href="mobile/5obwDwDIqbx_80_B-10.jpg" />
+      <file href="mobile/5VlmYl1n7c6_80_B-10.jpg" />
+      <file href="story_content/6hMwzTmqEsi_44100_48_0.mp3" />
+      <file href="story_content/6TBbK9uLmYW_44100_48_0.mp3" />
+      <file href="story_content/5hn9KFqI71Z_44100_48_0.mp3" />
+      <file href="mobile/6cQLP23e5R8_80_B-10.jpg" />
+      <file href="story_content/6Dp7hgOan01_44100_48_0.mp3" />
+      <file href="story_content/6Xoisq7nBs5_44100_48_0.mp3" />
+      <file href="story_content/5zfoQpDXGB8_44100_48_0.mp3" />
+      <file href="story_content/6rVRYgWUUKS_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6RiO5GotDcu.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
